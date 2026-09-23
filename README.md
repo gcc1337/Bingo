@@ -108,3 +108,7 @@ IP: 127.0.0.1
 ```
 
 Para testes em uma rede local, o cliente deve utilizar o endereço IPv4 da máquina que está executando o servidor.
+
+<img width="696" height="617" alt="image" src="https://github.com/user-attachments/assets/8f3d11c8-4ea3-4691-9d53-53b99ad76938" />
+<img width="632" height="485" alt="image" src="https://github.com/user-attachments/assets/ab97d603-ba78-427e-9ba1-0d535c2c9015" />
+<img width="1397" height="613" alt="image" src="https://github.com/user-attachments/assets/52146bc6-a1b4-402f-81c3-1bef10167a63" />
